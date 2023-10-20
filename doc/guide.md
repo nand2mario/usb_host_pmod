@@ -1,5 +1,7 @@
 # JLCPCB Ordering Guide
 
+This is the steps to have the PCB manufactured and components assembled by JLCPCB. 5 modules cost ~$28 plus shipping. 10 modules cost ~$34 plus shipping.
+
 1. Clone or [download](https://github.com/nand2mario/usb_host_pmod/archive/master.zip) the USB Host PMOD repository.
 
 2. Create an account with [JLCPCB.com](http://JLCPCB.com).
