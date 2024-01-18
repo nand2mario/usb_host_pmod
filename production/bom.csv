@@ -1,10 +1,10 @@
-﻿Designator,Footprint,Quantity,Value,LCSC Part #
+Designator,Footprint,Quantity,Value,LCSC Part #
 "C1, C2",0402,2,10uF,C15525
 D1,0402,1,1N5817/1N5819/1N5822,C145508
 J1,USB_A_Wuerth_61400826021_Horizontal_Stacked,1,USB_A_Stacked,C698206
 J2,PinHeader_2x06_P2.54mm_Horizontal,1,Conn_02x06_Odd_Even,C492434
 J3,PinSocket_1x02_P2.54mm_Vertical,1,Conn_01x02_Socket,NC
 L1,0603,1,10uH,C1035
-"R1, R2, R3, R4",0402,4,22,C1035
+"R1, R2, R3, R4",0402,4,22,C25092
 "R5, R6, R7, R8",0402,4,15K,C25756
 U2,SOT-23,1,QX2303L50T,C219027
